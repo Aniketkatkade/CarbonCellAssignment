@@ -39,32 +39,7 @@ This project is a Java & SpringBoot - based API that implements user authenticat
 
 >## Author
 
-👤 **Saikumar theppa**
+👤 *aniket katkade*
 
-* GitHub: [Saikumar theppa](https://gist.github.com/Saikumartheppa)
 
----
-<br>
 
->## Installation and Usage
-
-* Clone this repository to your local machine(https://github.com/Saikumartheppa/Carbon-Cell-Assignment.git).
-* Make sure you have Java, Maven, and MySQL installed.
-* Set up the database configuration in the application.properties file.
-* Run the application using Maven or your preferred IDE.
-* Access the API endpoints using Swagger UI by navigating to the appropriate URL (e.g., `http://localhost:8080/swagger-ui.html`).
----
-<br>
-
->## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
-    
----
-<br>
-
->## Show your support
-
-Give a ⭐️ if this project helped you!
-    
----
